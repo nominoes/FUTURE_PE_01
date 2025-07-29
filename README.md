@@ -11,7 +11,7 @@ This repository contains all deliverables for **Task 1** of the **Prompt Enginee
 - Full YouTube Script (800–1500 words)
 - Thumbnail Text & Visual Prompt
 - Final YouTube-Ready Video (Created using Pictory/Canva)
-- Optional: Voiceover Script, Music Suggestions, SEO Description
+- Bonus: AI-generated music & voiceover added via Pictory
 
 ## 🛠️ Tools Used:
 - ChatGPT (Prompt Engineering & Scripting)
