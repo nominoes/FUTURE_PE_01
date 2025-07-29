@@ -15,8 +15,8 @@ This repository contains all deliverables for **Task 1** of the **Prompt Enginee
 
 ## 🛠️ Tools Used:
 - ChatGPT (Prompt Engineering & Scripting)
-- MidJourney / DALL·E (Thumbnail Generation)
-- Pictory / Canva (Video Creation)
+- DALL·E (Thumbnail Generation)
+- Pictory (Video Creation)
 - Notion (Task Documentation)
 
 - ## 📎 Project Links
