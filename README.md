@@ -19,8 +19,16 @@ This repository contains all deliverables for **Task 1** of the **Prompt Enginee
 - Pictory / Canva (Video Creation)
 - Notion (Task Documentation)
 
+- ## 📎 Project Links
+
+🔗 [Notion Document – Task 1](https://www.notion.so/Prompt-Engineering-Task-1-Naman-Bheda-23f4ad9e20258029b1abda123970766e?source=copy_link)
+
+🎥 [Final Video (Pictory)](https://video.pictory.ai/v2/preview/1148176496178439664631753792772523)
+
+
 ## 🔗 LinkedIn Post:
-****
+
+
 
 ---
 
