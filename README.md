@@ -20,7 +20,7 @@ This repository contains all deliverables for **Task 1** of the **Prompt Enginee
 - Notion (Task Documentation)
 
 ## 🔗 LinkedIn Post:
-[Add your LinkedIn task post link here once published]
+----
 
 ---
 
